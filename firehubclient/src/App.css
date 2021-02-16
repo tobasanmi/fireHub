@@ -1,0 +1,117 @@
+            .list-of-services {
+                display: flex;
+                width: 100%;
+            }
+            
+            .service-content {
+                border-left: 1px solid rgb(0, 68, 255);
+            }
+            
+            h4,
+            p {
+                margin: 15px;
+            }
+            
+            #services {
+                background-color: #e7e7e7;
+                margin-top: 0px;
+                border: 1px solid white;
+            }
+            
+            .service-header {
+                margin-top: 30px;
+                text-align: center;
+            }
+            
+            .service-paragraph {
+                text-align: center;
+                margin: 20px;
+            }
+            
+            #home {
+                margin-top: 80px;
+            }
+            
+            .about-container {
+                display: flex;
+                width: 100%;
+            }
+            
+            #about {
+                background-color: rgb(51, 122, 183);
+                color: white;
+                margin-top: 0px;
+                border-top: 1px solid white;
+            }
+            
+            .about-header {
+                margin-top: 30px;
+                text-align: center;
+            }
+            
+            .contact-us {
+                background-color: black;
+                color: white;
+                position: relative;
+                height: 500px;
+                border: 1px solid black;
+            }
+            
+            .contact-header {
+                text-align: center;
+                margin-top: 30px;
+            }
+            
+            .contact-container {
+                display: flex;
+                position: absolute;
+                top: 30%;
+                left: 25%;
+            }
+            /* .contact-right {
+                width: 50%;
+            } */
+            
+            .credentials {
+                display: flex;
+            }
+            
+            textarea {
+                width: 678px;
+                height: 100px;
+            }
+            
+            li {
+                list-style-type: none;
+                margin: 10px;
+            }
+            
+            input {
+                margin: 10px;
+            }
+            
+            .socials {
+                font-size: 40px;
+                margin: 5px;
+            }
+            
+            .about-icon {
+                font-size: 50px;
+                margin-top: 20px;
+            }
+            
+            .icon-container {
+                display: flex;
+            }
+            
+            .check {
+                color: chartreuse;
+            }
+            
+            .helping {
+                color: red;
+            }
+            
+            h5 {
+                margin-left: 15px;
+            }
