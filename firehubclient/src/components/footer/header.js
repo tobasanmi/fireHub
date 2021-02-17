@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const headerWrapper = {
 display: 'flex',
@@ -42,7 +43,7 @@ export default function Header() {
             <li style = {list}><a href = '#services'>Services</a></li>
             <li style = {list}><a href = '#about'>About</a></li>
             <li style = {list}><a href = '#contact'>Contact</a></li>
-            <li style = {list}>Signup</li>
+            <li style = {list}><Link to = '/signup'>Signup</Link></li>
           </ul>
         </div>
       </div>

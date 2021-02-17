@@ -15,7 +15,6 @@ const SlidePictures = () => {
   const [autoplay, setAutoplay] = useState(true);
 
   const style = {
-    padding: "0px",
     height: "600px",
     width:"100%",
   }

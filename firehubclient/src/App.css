@@ -115,3 +115,49 @@
             h5 {
                 margin-left: 15px;
             }
+            
+            .slide-container {
+                width: 100%;
+            }
+            
+            .form-container {
+                border: 1px solid grey;
+                border-radius: 5px;
+                margin: 20px;
+                width: 70%;
+                position: relative;
+                left: 10%
+            }
+            
+            .form-header {
+                background-color: rgb(51, 122, 183);
+                /* border: 1px solid white; */
+                color: white;
+                margin: 0px;
+                padding: 20px
+            }
+            
+            .form-wrapper {
+                display: flex;
+                /* position: absolute; */
+                align-items: center;
+                justify-content: center;
+            }
+            
+            .signup-input {
+                width: 30vw;
+            }
+            
+            .btn-success {
+                margin: 10px;
+                padding: 5px;
+            }
+            
+            .form-check {
+                display: flex;
+                /* justify-content: space-around; */
+            }
+            
+            #checkbox {
+                margin: 10px;
+            }
